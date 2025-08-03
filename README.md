@@ -16,7 +16,7 @@ Please note: Terms of Use for Sports Reference apply. Refer to their terms avail
 3. **Predict Future Stats**: Use a trained machine learning model to predict player stats for any opponent.
 
 ## How to Use
-1. **Analyze Data**: Click Binder Link to see project: https://hub.gesis.mybinder.org/user/justinrjustin-currystatpredictor-sqi0dypg/doc/tree/notebook/visualization.ipynb
+1. **Analyze Data**: Click Binder Link to see project: https://mybinder.org/v2/gh/justinrjustin/CurryStatPredictor/c7e64723fdb1066ee6065577d03b42a163cc121d?urlpath=lab%2Ftree%2Fnotebook%2Fvisualization.ipynb
    
    **Remember to run all cells to see full functionality**
    
