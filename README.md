@@ -17,5 +17,7 @@ Please note: Terms of Use for Sports Reference apply. Refer to their terms avail
 
 ## How to Use
 1. **Analyze Data**: Click Binder Link to see project: https://hub.gesis.mybinder.org/user/justinrjustin-currystatpredictor-drwarmmh/doc/tree/notebook/visualization.ipynb
-   **Remember to run all cells to see full functionality
+   
+   **Remember to run all cells to see full functionality**
+   
    <img width="487" height="121" alt="Screenshot 2025-08-02 at 11 19 59 PM" src="https://github.com/user-attachments/assets/fbc1e90a-afa5-443b-a24e-b04762731186" />
