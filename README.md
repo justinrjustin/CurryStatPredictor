@@ -1,4 +1,5 @@
 # Stephen Curry Basketball Stats Analysis and Predictor
+## Note: This project contains interactive elements built with ipywidgets. Please run all cells in the live Binder environment to see the full functionality.
 ## About the Project
 This project analyzes Stephen Curry's basketball performance over the 2021-2024 regular game seasons and predicts future stats using historical data. It includes tools for:
 - **Viewing descriptive stats**: Average points, assists, rebounds, etc.
@@ -15,5 +16,6 @@ Please note: Terms of Use for Sports Reference apply. Refer to their terms avail
 3. **Predict Future Stats**: Use a trained machine learning model to predict player stats for any opponent.
 
 ## How to Use
-1. **Analyze Data**: Run the Jupyter Notebook (`visualization.ipynb`) to explore data and stats.
-2. **Visualize Performance**: See graphs and tables that summarize Curry's game stats.
+1. **Analyze Data**: Click Binder Link to see project: https://hub.gesis.mybinder.org/user/justinrjustin-currystatpredictor-drwarmmh/doc/tree/notebook/visualization.ipynb
+   **Remember to run all cells to see full functionality
+   <img width="487" height="121" alt="Screenshot 2025-08-02 at 11 19 59 PM" src="https://github.com/user-attachments/assets/fbc1e90a-afa5-443b-a24e-b04762731186" />
